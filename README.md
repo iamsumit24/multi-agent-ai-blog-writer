@@ -437,35 +437,6 @@ If you found this repository helpful, please consider
 Every ⭐ helps the project reach more developers.
 
 ---
-
-# 🚀 Learn More with DevOps Shack
-
-If you're interested in learning through practical, production-grade projects, check out **DevOps Shack**.
-
-We regularly publish content on
-
-- 🤖 AI Agents
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🔐 DevSecOps
-- ☸️ Kubernetes
-- 🐳 Docker
-- 🚀 CI/CD
-- 📈 MLOps
-
-### Follow DevOps Shack
-
-📺 YouTube  
-https://www.youtube.com/@devopsshack
-
-📸 Instagram  
-https://www.instagram.com/devopsshack
-
-💼 LinkedIn  
-https://www.linkedin.com/company/devopsshack
-
-https://www.linkedin.com/in/adityajaiswal7/
-
 ⭐ If this project helped you, don't forget to **Star the Repository!**
 
 Happy Learning! 🚀
